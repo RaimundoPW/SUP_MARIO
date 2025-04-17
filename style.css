@@ -10,7 +10,7 @@
     margin:0 auto;
     position:relative;
     overflow: hidden;
-    background: linear-gradient (#87ceeb, #e0f6ff);
+    background:linear-gradient(#5fc3eb, #e0f6ff);
   
     
 }
@@ -19,7 +19,7 @@
 .pipe {
     position: absolute;
     bottom:0;
-    width:70px;
+    width:60px;
     animation: pipe-animation 2s infinite linear;
 }
 
